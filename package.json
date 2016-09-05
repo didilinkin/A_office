@@ -1,0 +1,18 @@
+{
+  "name": "a_office",
+  "version": "1.0.0",
+  "description": "A+office",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "A+office"
+  },
+  "keywords": [
+    "A+office"
+  ],
+  "author": "yanxiaodi 929213769@qq.com",
+  "license": "MIT"
+}
