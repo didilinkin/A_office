@@ -14,5 +14,21 @@
     "A+office"
   ],
   "author": "yanxiaodi 929213769@qq.com",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "gulp-watch-path": "^0.1.0",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-hot-loader": "^3.0.0-beta.3",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  }
 }
